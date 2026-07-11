@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-authentication",
+      "title": "FastAPI Authentication Basics",
+      "description": "Implement login, bearer token validation, and protected FastAPI routes",
+      "path": "assignments/fastapi-authentication",
+      "dueDate": "2026-07-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
